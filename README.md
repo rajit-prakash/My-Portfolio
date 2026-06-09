@@ -74,8 +74,8 @@ Affiliated to APJ Abdul Kalam Technological University (KTU)
 
 ## Connect With Me
 
-* GitHub: github.com/rajit-prakash
-* LinkedIn: linkedin.com/in/rajit-prakash-kuttikat-18572329a
+* GitHub: https://github.com/rajit-prakash
+* LinkedIn: https://www.linkedin.com/in/rajit-prakash-kuttikat-18572329a/
 * Email: [rajitprakash2007@gmail.com](mailto:rajitprakash2007@gmail.com)
 
 ---
