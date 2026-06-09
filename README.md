@@ -1,82 +1,83 @@
-# Hi, I'm Rajit 👋
+# Hi, I'm Rajit Prakash 👋
 
 ### B.Tech Computer Science & Engineering Student
-📍 Kakkanad, Kerala, India  
-🎓 TOC H Institute of Science & Technology (KTU)  
-📚 Second Year CSE Student
+
+📍 Kakkanad, Kerala, India
+🎓 TOC H Institute of Science & Technology (KTU)
+📚 Second-Year CSE Student
 
 ---
 
 ## About Me
 
-I am a passionate Computer Science student interested in software development, problem solving, and emerging technologies.
+I'm a Computer Science and Engineering student with a strong interest in software development, problem-solving, and emerging technologies.
 
-Currently focusing on:
+Currently learning and exploring:
 
-- Data Structures and Algorithms
-- Web Development
-- Java Programming
-- Python Programming
-- Database Management Systems
-- Operating Systems
+* Data Structures & Algorithms
+* Web Development
+* Java Programming
+* Python Programming
+* Database Management Systems
+* Operating Systems
 
-I enjoy building small projects to improve my programming and development skills.
+I enjoy building projects that strengthen my programming skills and practical understanding of computer science concepts.
 
 ---
 
 ## Technical Skills
 
 ### Programming Languages
-- Python
-- Java
-- C
-- JavaScript
+
+* Python
+* Java
+* C
+* JavaScript
 
 ### Web Technologies
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
+
+* HTML
+* CSS
+* JavaScript
+* Bootstrap
 
 ### Databases
-- MySQL
 
-### Tools
-- Git
-- GitHub
-- VS Code
+* MySQL
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* Visual Studio Code
 
 ---
 
+## Education
 
-## Academic Information
+**B.Tech in Computer Science & Engineering**
+TOC H Institute of Science & Technology
+Affiliated to APJ Abdul Kalam Technological University (KTU)
 
-**University:** KTU (APJ Abdul Kalam Technological University)
-
-**College:** TOC H Institute of Science & Technology
-
-**Degree:** B.Tech Computer Science & Engineering
-
-**Current Year:** Second Year
+**Current Status:** Second Year Undergraduate Student
 
 ---
 
 ## Current Learning Goals
 
-- Data Structures & Algorithms
-- Full Stack Web Development
-- Machine Learning Basics
-- Open Source Contribution
+* Master Data Structures & Algorithms
+* Build Full-Stack Web Applications
+* Explore Machine Learning Fundamentals
+* Contribute to Open Source Projects
 
 ---
-
 
 ## Connect With Me
 
-- GitHub: https://github.com/rajit-prakash
-- LinkedIn: https://www.linkedin.com/in/rajit-prakash-kuttikat-18572329a/
-- Email: rajitprakash2007@gmail.com
+* GitHub: github.com/rajit-prakash
+* LinkedIn: linkedin.com/in/rajit-prakash-kuttikat-18572329a
+* Email: [rajitprakash2007@gmail.com](mailto:rajitprakash2007@gmail.com)
 
 ---
 
-⭐ Always learning and building.
+⭐ Always learning, building, and improving.
