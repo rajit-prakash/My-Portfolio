@@ -70,13 +70,6 @@ I enjoy building small projects to improve my programming and development skills
 
 ---
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
-
----
 
 ## Connect With Me
 
