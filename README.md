@@ -61,8 +61,6 @@ Features:
 - Delete records
 - Search functionality
 
-Repository:
-https://github.com/yourusername/student-management-system
 
 ---
 
