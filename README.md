@@ -73,9 +73,9 @@ I enjoy building small projects to improve my programming and development skills
 
 ## Connect With Me
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Email: your.email@example.com
+- GitHub: https://github.com/rajit-prakash
+- LinkedIn: https://www.linkedin.com/in/rajit-prakash-kuttikat-18572329a/
+- Email: rajitprakash2007@gmail.com
 
 ---
 
